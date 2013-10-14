@@ -1,0 +1,9 @@
+#define CODE_LINE_MAX 1024
+
+#define CODE_CHAR_MAX 512
+
+#define KEYWORD_KIND_MAX 10
+
+#define KEYWORD_MAX 256
+
+#define KEYWORD_CHAR_MAX 32
