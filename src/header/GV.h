@@ -9,8 +9,8 @@
 
 #include "function.h"
 
-//画像用変数宣言部
-GLOBAL int img_bg;       //キャラクタ画像9枚分　X2(変身用)
+
+GLOBAL int img_bg;
 GLOBAL int img_char[6][2][95];
 
 GLOBAL int func_state;
